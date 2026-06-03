@@ -5,7 +5,7 @@ Este repositório contém a entrega da **Fase 1** do Projeto da Disciplina. O ob
 ## Tecnologias Utilizadas
 * **HTML5 Puro**: Utilização estrita de tags semânticas para estruturação do conteúdo, sem qualquer estilização de CSS ou JavaScript.
 
-## 📋 Funcionalidades Estruturadas
+## Funcionalidades Estruturadas
 * **Cabeçalho**: Identificação da marca e menu de navegação por âncoras internas.
 * **Vitrine de Produtos**: Exibição de 3 categorias obrigatórias com 2 produtos em cada (contendo imagem, descrição técnica e valor):
     1. Acessórios
